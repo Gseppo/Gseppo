@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Gseppo
+- 👀 I’m interested in Webdev 
+- 🌱 I’m currently learning How to code.
+- 📫 How to reach me gseppo@spacemonke.info
+- 😄 Pronouns: He HIM
+- ⚡ Fun fact: I'm bad at coding
