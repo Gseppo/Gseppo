@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 <p>
 If something is placed in memory but forgotten was it every truly there?
 
