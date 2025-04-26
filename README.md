@@ -1,12 +1,13 @@
+<div align="center">
+<p>
 If something is placed in memory but forgotten was it every truly there?
 
 Creator of Something In Memory
-
-<div align="center">
+</p>
 <br>
 <img src="https://skillicons.dev/icons?i=py,scala,haskell,discord,github" width=500px alt="My Skills 1"/>
 <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aquiffoo&theme=discord_old_blurple" width=500px />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gseppo&theme=discord_old_blurple" width=500px />
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gseppo&theme=discord_old_blurple" width=250px />
 <br>
